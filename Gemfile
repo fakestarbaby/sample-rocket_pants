@@ -3,6 +3,7 @@ source 'https://rubygems.org'
 gem 'rails', '3.2.5'
 
 gem 'jquery-rails'
+gem 'rocket_pants'
 gem 'sqlite3'
 
 group :assets do
